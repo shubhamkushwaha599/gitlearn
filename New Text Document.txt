@@ -1,1 +1,4 @@
-hello this is my first learning repository in git hub in 2k21.
+hello
+how are u.
+hii
+sdkdlk
